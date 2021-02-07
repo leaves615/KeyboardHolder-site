@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+src
+blog
+docs
+md_json
+site_config
+utils
+.*
+/*.ejs
+/*.json
+/*.md
+/*.js
+/*.yml
+node_modules
