@@ -3,6 +3,19 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>周日, 28 11月 2021 13:19:26 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/1.4.0/KeyboardHolder.app.1.4.0.zip" sparkle:version="27" sparkle:shortVersionString="1.4.0" length="3875763" type="application/octet-stream" sparkle:edSignature="cKl9bqjmEkagSky5vIr111D4mKeQFaKg1xhcqfxLFERk3Go00cOzwITSS2W4sygcLhdN7JSGyef54ZlBgs+WAw=="/>
+            <description><![CDATA[
+                <ul>
+                    <li>改进MacOS 11及后续系统版本界面效果。</li>
+                    <li>bug fix。</li>
+                </ul>
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.3.2</title>
             <pubDate>周日, 25 4月 2021 23:42:42 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
