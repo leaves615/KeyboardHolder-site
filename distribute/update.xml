@@ -3,6 +3,18 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.5.2</title>
+            <pubDate>周四, 20 1月 2022 11:22:52 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/1.5.2/KeyboardHolder.app.1.5.2.zip" sparkle:version="32" sparkle:shortVersionString="1.5.2" length="3007405" type="application/octet-stream" sparkle:edSignature="7oA8exbDemOzxb+vAd0NI5SmogdxRZz29ZUv/YWOf7sXSNMOjEZEm3mzegdXZdyrNnc7OrITxGtx32oVJF5rAQ=="/>
+            <description><![CDATA[
+                <ul>
+                    <li>优化：增加隐藏菜单栏后快捷键激活功能。</li>
+                </ul>
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.5.1</title>
             <pubDate>周五, 07 1月 2022 17:15:40 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
