@@ -3,6 +3,20 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.5.3</title>
+            <pubDate>周五, 18 3月 2022 17:53:44 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://keyboardholder.leavesc.com/distribute/KeyboardHolder.app.1.5.3.zip" sparkle:version="33" sparkle:shortVersionString="1.5.3" length="3113327" type="application/octet-stream" sparkle:edSignature="I1ZidgQDWX3A8yCXMqHXhX8eEmYgPuAC7VCtYIRageyE5voMu2YZKGLV+eFT1qUbXAtdHydN0O2rnaRk+i1fBg=="/>
+             <description><![CDATA[
+                <ul>
+                    <li>增加输入法提示位置自定义功能。</li>
+                    <li>增加网站链接菜单。</li>
+                    <li>增加Dock图标显示开关。</li>
+                </ul>
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.5.2</title>
             <pubDate>周四, 20 1月 2022 11:22:52 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
