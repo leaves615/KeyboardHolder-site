@@ -3,10 +3,25 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.5.4</title>
+            <pubDate>周五, 25 3月 2022 15:47:11 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/1.5.4/KeyboardHolder-1.5.4.zip" sparkle:version="34" sparkle:shortVersionString="1.5.4" length="3119036" type="application/octet-stream" sparkle:edSignature="jMK4uR9nNFUBrh1AVamBBsKeO3UJD/xk0+MV6DBG/JihmyBEp3kiQOn0+OZW0es/0+N7XE6YSsfhX50zBiBlBg=="/>
+            <description><![CDATA[
+                <ul>
+                    <li>优化输入法切换。</li>
+                    <li>修复Dock Icon显示/隐藏问题。</li>
+                    <li>增加app启动后显示/隐藏配置窗口开关。</li>
+                </ul>
+            ]]>
+            </description>
+        
+        </item>
+        <item>
             <title>1.5.3</title>
             <pubDate>周五, 18 3月 2022 17:53:44 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://keyboardholder.leavesc.com/distribute/KeyboardHolder.app.1.5.3.zip" sparkle:version="33" sparkle:shortVersionString="1.5.3" length="3113327" type="application/octet-stream" sparkle:edSignature="I1ZidgQDWX3A8yCXMqHXhX8eEmYgPuAC7VCtYIRageyE5voMu2YZKGLV+eFT1qUbXAtdHydN0O2rnaRk+i1fBg=="/>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/1.5.3/KeyboardHolder.app.1.5.3.zip" sparkle:version="33" sparkle:shortVersionString="1.5.3" length="3113327" type="application/octet-stream" sparkle:edSignature="I1ZidgQDWX3A8yCXMqHXhX8eEmYgPuAC7VCtYIRageyE5voMu2YZKGLV+eFT1qUbXAtdHydN0O2rnaRk+i1fBg=="/>
              <description><![CDATA[
                 <ul>
                     <li>增加输入法提示位置自定义功能。</li>
