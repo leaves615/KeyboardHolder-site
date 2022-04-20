@@ -3,6 +3,20 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>周三, 20 4月 2022 21:06:50 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/1.6.0/KeyboardHolder-1.6.0.zip" sparkle:version="37" sparkle:shortVersionString="1.6.0" length="3115520" type="application/octet-stream" sparkle:edSignature="1EgGU4YoTmlB0/F0G8A/1TSBvHDSHZQT60D0mWXBsXBdP6xCpkofAT4YCuulXO1jlWYpAv7G7/Eav79MhmwyCg=="/>
+            <description><![CDATA[
+                <ul>
+                    <li>增加应用激活的输入法配置, 激活时可选择指定输入法或者使用上次使用的输入法。</li>
+                    <li>重新设计自定义应用的配置，区分启动和激活的输入法配置。 <b>自定义应用的配置需要手工重新配置</b></li>
+                    <li>优化菜单栏隐藏的快捷键( ⌘+⌥+F11 )功能，现在可通过快捷键切换隐藏和显示状态。</li>
+                </ul>
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.5.5</title>
             <pubDate>周五, 01 4月 2022 23:18:36 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
