@@ -1813,22 +1813,6 @@ h1, h2, h3, h4, h5, h6 {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between; }
-    .home-page .introduction-section .introduction-body::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 40px;
-      height: 165px;
-      opacity: 0.3;
-      border-right: 1px solid #666; }
-    .home-page .introduction-section .introduction-body::after {
-      content: '';
-      position: absolute;
-      left: 39px;
-      top: 165px;
-      width: 3px;
-      height: 17px;
-      background-image: linear-gradient(0deg, #03DDE4 0%, #30AFED 51%, #8755FF 100%); }
     .home-page .introduction-section .introduction-body .introduction {
       display: inline-block;
       width: calc(100% - 726px);
