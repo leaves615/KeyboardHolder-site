@@ -6,7 +6,7 @@
             <title>1.6.2</title>
             <pubDate>周五, 20 5月 2022 16:03:45 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://keyboardholder.leavesc.com/distribute/KeyboardHolder-1.6.2.zip" sparkle:version="39" sparkle:shortVersionString="1.6.2" length="3480631" type="application/octet-stream" sparkle:edSignature="stKhzN4y6V276FfnAYMou6SgW13wpG8jhUfRJGoQm6s/z7KkGnBU5KvPWXfbTBxNYpwKhm28kuczyDc+UNGZDA=="/>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.6.2/KeyboardHolder-1.6.2.zip" sparkle:version="39" sparkle:shortVersionString="1.6.2" length="3480631" type="application/octet-stream" sparkle:edSignature="stKhzN4y6V276FfnAYMou6SgW13wpG8jhUfRJGoQm6s/z7KkGnBU5KvPWXfbTBxNYpwKhm28kuczyDc+UNGZDA=="/>
             <description><![CDATA[
                 <ul>     <li>【修复】输入法提示宽度显示不正确问题。</li> </ul> 
             ]]>
