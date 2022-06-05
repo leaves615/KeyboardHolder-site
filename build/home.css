@@ -1799,6 +1799,23 @@ h1, h2, h3, h4, h5, h6 {
       margin-right: 20px; }
     .home-page .top-section .button-area .button:last-child {
       margin-right: 0; }
+  .home-page .top-section .reqirement {
+    color: #fff;
+    opacity: 0.6;
+    font-size: 12px;
+    text-align: center;
+    margin: 12px auto 0;
+    max-width: 730px;
+    display: block; }
+  .home-page .top-section .icons {
+    margin: 12px auto 0;
+    text-align: center; }
+    .home-page .top-section .icons a {
+      color: gray;
+      font-size: 24px;
+      display: inline-block; }
+    .home-page .top-section .icons a:hover {
+      color: #568ef7; }
 
 .home-page .introduction-section {
   background: #F9FAFA; }
