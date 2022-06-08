@@ -3,6 +3,16 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.7.1</title>
+            <pubDate>周三, 08 6月 2022 20:26:32 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.7.1/KeyboardHolder-1.7.1.zip" sparkle:version="42" sparkle:shortVersionString="1.7.1" length="3484185" type="application/octet-stream" sparkle:edSignature="fUSETTmet0XuIo8lEjk+Fh3g+tpCcqMXBYEXy3zG4oQI52k2d7zLakzg+fh+sPNYMIWdpMEvP4ObCR0hysxeAw=="/>
+            <description><![CDATA[
+                <ul>     <li>【修复】浏览器地址切换不生效问题</li>     <li>【优化】优化应用切换逻辑</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.7.0</title>
             <pubDate>周六, 04 6月 2022 00:42:09 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
