@@ -3,6 +3,16 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.8.0</title>
+            <pubDate>周四, 16 6月 2022 22:52:14 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.8.0/KeyboardHolder-1.8.0.zip" sparkle:version="44" sparkle:shortVersionString="1.8.0" length="3542605" type="application/octet-stream" sparkle:edSignature="guEDDrmBBiqMhbxtBVXU9z41tpupgC/x/+oQEXYhPyUuiTgB0RBdkHRxRkmwH7/kXAcSvzNx7evNd9/Q/eRrCA=="/>
+            <description><![CDATA[
+                <ul>     <li>【新增】基于浏览器当前页面域名的输入法切换</li>     <li>【优化】隐藏菜单栏图标逻辑。增加配置项配置应用启动时是否保持菜单栏图标显示/隐藏状态</li>     <li>【优化】输入法提示界面</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.7.1</title>
             <pubDate>周三, 08 6月 2022 20:26:32 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
