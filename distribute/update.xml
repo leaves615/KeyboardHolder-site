@@ -3,6 +3,16 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.8.1</title>
+            <pubDate>周一, 20 6月 2022 20:49:16 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.8.1/KeyboardHolder-1.8.1.zip" sparkle:version="45" sparkle:shortVersionString="1.8.1" length="2921406" type="application/octet-stream" sparkle:edSignature="Jmr1CdoRr7gsUL/ZoO/044Ubn0Sag2upksJFxvGuTFpRIaRvyCSh6rF0+eAYkUsf8nTCGecGYT0T89TzhhWCBA=="/>
+            <description><![CDATA[
+                <ul>     <li>【修复】Chrome浏览器和基于的浏览器打开查找时，已配置域名的当前页面输入法会切换到应用最后使用的输入法的问题。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.8.0</title>
             <pubDate>周四, 16 6月 2022 22:52:14 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
