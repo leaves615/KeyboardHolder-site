@@ -3,6 +3,16 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.8.2</title>
+            <pubDate>周一, 27 6月 2022 14:02:16 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.8.2/KeyboardHolder-1.8.2.zip" sparkle:version="46" sparkle:shortVersionString="1.8.2" length="2929357" type="application/octet-stream" sparkle:edSignature="nIosYs7EyAY9qzOn1jrmHtgYcbrddMNZ26l71d8Hz833ia8UJYT49KCBJA05NtxknW+eg95exRCtMnExCqJhBQ=="/>
+            <description><![CDATA[
+                <ul>     <li>【修复】BUG。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.8.1</title>
             <pubDate>周一, 20 6月 2022 20:49:16 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
