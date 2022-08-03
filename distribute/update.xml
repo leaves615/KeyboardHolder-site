@@ -3,6 +3,16 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.9.0</title>
+            <pubDate>周三, 03 8月 2022 21:16:00 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.9.0/KeyboardHolder-1.9.0.zip" sparkle:version="49" sparkle:shortVersionString="1.9.0" length="2957940" type="application/octet-stream" sparkle:edSignature="V41i2DcSDmrdDcwRjT3gyWQDl+8IjIGchqNY49pb2yimY2ziXSjaTSXVvReffxqtw7uULcfg0GGXNfssIotNDA=="/>
+            <description><![CDATA[
+                <ul>     <li>调整：输入法提示配置</li>     <li>增加：输入法提示显示效果选项：仅图标，仅名称，图标加名称。</li>     <li>增加：当隐藏了状态栏图标后，可通过再次运行app，来显示状态栏图标。</li>     <li>增加：自定义输入法提示显示时长。</li>     <li>修复：10.15设置窗口崩溃问题。</li>     <li>修复：输入法提示在多屏下位置不正确的问题。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.8.3</title>
             <pubDate>周一, 11 7月 2022 17:11:10 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
