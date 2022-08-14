@@ -3,6 +3,16 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.9.3</title>
+            <pubDate>周日, 14 8月 2022 14:49:41 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.9.3/KeyboardHolder-1.9.3.zip" sparkle:version="53" sparkle:shortVersionString="1.9.3" length="3476942" type="application/octet-stream" sparkle:edSignature="wfLQ4xzCAvxkKX7FOCy7WAzDhEP0C4CUelliZ90b5Rz6A9ACeorgnnnalzitZo0qzr6zdTc0iK7pU9X3zimbCg=="/>
+            <description><![CDATA[
+                <ul>     <li>修改：调整更新检查，增加后台检查机制，有更新时通过用户通知提醒更新。</li>     <li>修改：仅在输入法发生改变时提示的开关开启后，作用于大部分提示场景，文本光标激活时除外。</li>     <li>修复：已知问题</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.9.2</title>
             <pubDate>周三, 10 8月 2022 16:02:14 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
