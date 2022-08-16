@@ -3,6 +3,16 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.9.4</title>
+            <pubDate>周二, 16 8月 2022 22:47:07 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.9.4/KeyboardHolder-1.9.4.zip" sparkle:version="54" sparkle:shortVersionString="1.9.4" length="3479514" type="application/octet-stream" sparkle:edSignature="HYrXPXCnaGrxC8HP27+u0rmK3iQJIQmSA1H90JUm8NaLcf0Ok3k/yMlTX6U73M4MSozu47lsxaXydn39mUDHDw=="/>
+            <description><![CDATA[
+                <ul>     <li>修复：electron类应用（VS Code等）在选中文本切换回后回删除已选中的内容。#90 </li>     <li>修复：已知问题</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.9.3</title>
             <pubDate>周日, 14 8月 2022 14:49:41 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
