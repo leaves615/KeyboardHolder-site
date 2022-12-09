@@ -16,6 +16,16 @@
             <title>1.10.0</title>
             <pubDate>周日, 21 8月 2022 18:06:14 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://keyboardholder.leavesc.com/distribute/KeyboardHolder-1.10.0.zip" sparkle:version="55" sparkle:shortVersionString="1.10.0" length="3539971" type="application/octet-stream" sparkle:edSignature="PpE+fR7PPA4hJhylaK+PLBoJpb2AqChv0b+TFwsvFIUHMRQb0k+FpMXMu/pJqysxgkjXd2H/dYuZfk4fY1EEBg=="/>
+            <description><![CDATA[
+                <ul>     <li>修复：已知问题</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
+            <title>1.10.0</title>
+            <pubDate>周日, 21 8月 2022 18:06:14 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.10.0/KeyboardHolder-1.10.0.zip" sparkle:version="55" sparkle:shortVersionString="1.10.0" length="3539971" type="application/octet-stream" sparkle:edSignature="PpE+fR7PPA4hJhylaK+PLBoJpb2AqChv0b+TFwsvFIUHMRQb0k+FpMXMu/pJqysxgkjXd2H/dYuZfk4fY1EEBg=="/>
             <description><![CDATA[
                 <ul>     <li>增加：应用排除策略。 可配置应用切换排除策略；输入法提示排除策略。</li>     <li>修复：已知问题</li> </ul>  
