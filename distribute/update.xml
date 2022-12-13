@@ -3,20 +3,12 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
-            <title>1.10.0</title>
-            <pubDate>周日, 21 8月 2022 18:06:14 +0800</pubDate>
+            <title>1.10.2</title>
+            <pubDate>Fri, 09 Dec 2022 10:58:35 +0800</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://keyboardholder.leavesc.com/distribute/KeyboardHolder-1.10.0.zip" sparkle:version="55" sparkle:shortVersionString="1.10.0" length="3539971" type="application/octet-stream" sparkle:edSignature="PpE+fR7PPA4hJhylaK+PLBoJpb2AqChv0b+TFwsvFIUHMRQb0k+FpMXMu/pJqysxgkjXd2H/dYuZfk4fY1EEBg=="/>
-            <description><![CDATA[
-                <ul>     <li>修复：已知问题</li> </ul> 
-            ]]>
-            </description>
-        </item>
-        <item>
-            <title>1.10.0</title>
-            <pubDate>周日, 21 8月 2022 18:06:14 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://keyboardholder.leavesc.com/distribute/KeyboardHolder-1.10.0.zip" sparkle:version="55" sparkle:shortVersionString="1.10.0" length="3539971" type="application/octet-stream" sparkle:edSignature="PpE+fR7PPA4hJhylaK+PLBoJpb2AqChv0b+TFwsvFIUHMRQb0k+FpMXMu/pJqysxgkjXd2H/dYuZfk4fY1EEBg=="/>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.10.2/KeyboardHolder-1.10.2.zip" length="3511285" type="application/octet-stream" sparkle:edSignature="U+1RynLJHOmOBm4MQsDwb1gncXtit61q8LyF7xYHacTouJNIhqbV9n1yimahddgUVbtkwTc8nOFruQuchgkZDA=="/>
             <description><![CDATA[
                 <ul>     <li>修复：已知问题</li> </ul> 
             ]]>
