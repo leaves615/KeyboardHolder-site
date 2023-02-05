@@ -1,22 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>KeyboardHolder</title>
-            <pubDate>Fri, 09 Dec 2022 10:58:35 +0800</pubDate>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
+        <item>
+            <title>1.10.3</title>
+            <pubDate>Sun, 05 Feb 2023 16:22:59 +0800</pubDate>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>1.10.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://keyboardholder.leavesc.com/distribute/KeyboardHolder-1.10.2.zip" length="3511285" type="application/octet-stream" sparkle:edSignature="U+1RynLJHOmOBm4MQsDwb1gncXtit61q8LyF7xYHacTouJNIhqbV9n1yimahddgUVbtkwTc8nOFruQuchgkZDA=="/>
-            <description><![CDATA[
-                <ul>     <li>修复：已知问题</li> </ul> 
-            ]]>
-            </description>
-        </item>
-            <pubDate>Fri, 09 Dec 2022 10:58:35 +0800</pubDate>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://keyboardholder.leavesc.com/distribute/KeyboardHolder-1.10.2.zip" length="3511285" type="application/octet-stream" sparkle:edSignature="U+1RynLJHOmOBm4MQsDwb1gncXtit61q8LyF7xYHacTouJNIhqbV9n1yimahddgUVbtkwTc8nOFruQuchgkZDA=="/>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.10.3/KeyboardHolder-1.10.3.zip" length="3521433" type="application/octet-stream" sparkle:edSignature="cGVEly0JjrVCZuw1fUTRRm29bt8akpz2cOpyZnzkud1wXziq77J+m4sDuT+F6qHO5YbjbIwPd196EQwuKkVnBA=="/>
             <description><![CDATA[
                 <ul>     <li>修复：已知问题</li> </ul> 
             ]]>
