@@ -2,6 +2,16 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Sun, 12 Feb 2023 20:45:11 +0800</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>1.10.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.10.4/KeyboardHolder-1.10.4.zip" length="3525636" type="application/octet-stream" sparkle:edSignature="SPL1IsY4vmcuNIgwHfOjAO5K/negAFqOuJkz28Dq2kj+P6E8MGfZ7I3ctZ89vDpJ2ryXjt9x2CSr8JdKCUliBw=="/>
+            <description><![CDATA[
+                <ul>     <li>修复：alfred启动无法检测问题</li> </ul> 
+            ]]>
+            </description>
+        </item>
             <title>1.10.3</title>
             <pubDate>Sun, 05 Feb 2023 16:22:59 +0800</pubDate>
             <sparkle:version>59</sparkle:version>
