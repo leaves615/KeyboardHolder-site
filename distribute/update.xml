@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Sat, 29 Apr 2023 12:02:03 +0800</pubDate>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.11.0/KeyboardHolder-1.11.0.zip" length="3644146" type="application/octet-stream" sparkle:edSignature="0t6U63Rbz1fkzDzgvB6krMbkXcbAE4LpJDo7ie5Oc8QHSGUCFjGV/5zZyp4ch5fuumGoVyGYX1NtE5lFdWjtCg=="/>
+            <description><![CDATA[
+                <ul>     <li>增加：Firefox 浏览器支持。支持地址栏输入法切换，支持标签切换域名匹配。（Firefox最新版本：112.*开始支持，之前版本未测试）</li>     <li>修复：BUGs。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Fri, 10 Mar 2023 10:10:30 +0800</pubDate>
             <sparkle:version>63</sparkle:version>
             <sparkle:shortVersionString>1.10.7</sparkle:shortVersionString>
