@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Tue, 16 May 2023 11:46:15 +0800</pubDate>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>1.11.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.11.1/KeyboardHolder-1.11.1.zip" length="3644357" type="application/octet-stream" sparkle:edSignature="hUrwXg1n0/75umTPrCAca/67pF6yzVXQ5vN1+HvCumYIKhP0vdwWjSNaGJA7/s3ymfGdGO+yMlIdufD5y9OZBA=="/>
+            <description><![CDATA[
+                <ul>     <li>优化：内存占用问题。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Sat, 29 Apr 2023 12:02:03 +0800</pubDate>
             <sparkle:version>64</sparkle:version>
             <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
