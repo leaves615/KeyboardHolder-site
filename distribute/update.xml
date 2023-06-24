@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Sat, 24 Jun 2023 15:16:57 +0800</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.12.0/KeyboardHolder-1.12.0.zip" length="3447259" type="application/octet-stream" sparkle:edSignature="e3MXsRKeGgv7j6qBAP49ZcSZQoiCmZ05ob+Slc3Mp/QsqZz5lH7eQHzRDiDFRHz9ntEp6weWcZCSKhZi4fxHBA=="/>
+            <description><![CDATA[
+                <ul>     <li>破坏性更新：macOS版本最小支持版本提升到11.0。</li>     <li>变更：新的配置界面效果，提供更加直观的配置体验。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Wed, 14 Jun 2023 11:02:06 +0800</pubDate>
             <sparkle:version>67</sparkle:version>
             <sparkle:shortVersionString>1.11.3</sparkle:shortVersionString>
