@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Wed, 13 Mar 2024 15:05:46 +0800</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>1.12.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.12.13/KeyboardHolder-1.12.13.zip" length="3941137" type="application/octet-stream" sparkle:edSignature="pUnRdqDy6rco7kNneiDM3KL9Q/amacYkenm9j+nUl4xP/3t2/pvVZT9vtbxUY9uFsVt69Pvf2s9bE1bBV3UyAQ=="/>
+            <description><![CDATA[
+                <ul>     <li>修复：CJKV第三方输入法切换问题。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Fri, 08 Mar 2024 11:06:40 +0800</pubDate>
             <sparkle:version>81</sparkle:version>
             <sparkle:shortVersionString>1.12.12</sparkle:shortVersionString>
