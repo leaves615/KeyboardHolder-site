@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Wed, 27 Mar 2024 15:08:12 +0800</pubDate>
+            <sparkle:version>83</sparkle:version>
+            <sparkle:shortVersionString>1.12.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.12.14/KeyboardHolder-1.12.14.zip" length="3923088" type="application/octet-stream" sparkle:edSignature="sBqszgUgi7IrQo1/WMjan1Sz0DN1e8uLSTPYu+qkEH8ZDvDVueIjHZgAy1zi6ahoJVJxdOi7M9d+ofg+JRrZBQ=="/>
+            <description><![CDATA[
+                <ul>     <li>修复：app 启动切换问题。</li>     <li>优化：切换逻辑。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Wed, 13 Mar 2024 15:05:46 +0800</pubDate>
             <sparkle:version>82</sparkle:version>
             <sparkle:shortVersionString>1.12.13</sparkle:shortVersionString>
