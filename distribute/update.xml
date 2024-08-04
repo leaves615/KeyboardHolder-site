@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Sun, 04 Aug 2024 13:53:58 +0800</pubDate>
+            <sparkle:version>90</sparkle:version>
+            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.13.0/KeyboardHolder-1.13.0.zip" length="4123836" type="application/octet-stream" sparkle:edSignature="a1ag+IfZKoS8hBh0KXMN3n3s3D4mcCrmPJcOk3FB+NlhAszEscGo9Qx+nYJKN8nyFTThr+NQSIwYdCi8kNuYBQ=="/>
+            <description><![CDATA[
+                <ul>     <li>增加：提示窗口大小设置。 #167</li>     <li>增加：配置导入/导出。 #169</li>     <li>修复：DBeaver无效问题。 #162</li>     <li>优化：支持Chrome dev，Canary。#161 </li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Sat, 29 Jun 2024 13:17:44 +0800</pubDate>
             <sparkle:version>89</sparkle:version>
             <sparkle:shortVersionString>1.12.20</sparkle:shortVersionString>
