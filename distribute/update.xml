@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Sat, 07 Sep 2024 00:51:05 +0800</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.13.1/KeyboardHolder-1.13.1.zip" length="4142587" type="application/octet-stream" sparkle:edSignature="QEDXnO3bAkKxkvWSwfhhz0uztjcEg3HsHXuDyKwzgUEjXQlXkCACQIQce/XIl7FZNT+JxKmQWr93KwedVpgbCA=="/>
+            <description><![CDATA[
+                <ul>     <li>新增：自定义光标提示显示位置。 fixed: #159</li>     <li>优化：区分浏览器地址栏定制和域名切换。 fixed: #172</li>     <li>修复：崩溃问题。 fixed: #173</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Sun, 04 Aug 2024 13:53:58 +0800</pubDate>
             <sparkle:version>90</sparkle:version>
             <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
