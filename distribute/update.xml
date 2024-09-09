@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Mon, 09 Sep 2024 23:10:03 +0800</pubDate>
+            <sparkle:version>93</sparkle:version>
+            <sparkle:shortVersionString>1.13.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.13.3/KeyboardHolder-1.13.3.zip" length="4148394" type="application/octet-stream" sparkle:edSignature="/YtPH+pJsppa9w/LDNkqS1iuVDL4zEMJV0OJsaA8z+cMxy+WMoFvubFW2H96bLPjoxobtbDxK7pmUefYDtIJCw=="/>
+            <description><![CDATA[
+                <ul>     <li>修复：部分场景下浏览器的切换逻辑不生效的问题。 感谢协助调试的朋友。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Sat, 07 Sep 2024 00:51:05 +0800</pubDate>
             <sparkle:version>91</sparkle:version>
             <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
