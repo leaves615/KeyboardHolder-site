@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Sat, 02 Aug 2025 15:55:41 +0800</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.14.1/KeyboardHolder-1.14.1.zip" length="4870829" type="application/octet-stream" sparkle:edSignature="PHKo2bQQiW3brygxVFbfz8TOipprOUPbRT2rm+XxyeAgKStZhM7jk0Q+ILo9wBTvNghYRgefTQGqvlNSWVZ4Ag=="/>
+            <description><![CDATA[
+                <ul>     <li>新增：辅助控制权限授权向导。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Mon, 28 Jul 2025 17:53:12 +0800</pubDate>
             <sparkle:version>99</sparkle:version>
             <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
