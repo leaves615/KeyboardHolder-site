@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Sun, 12 Oct 2025 11:11:01 +0800</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>1.14.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.14.4/KeyboardHolder-1.14.4.zip" length="4874449" type="application/octet-stream" sparkle:edSignature="6/J+ln5mEze7GKX79KMkr8y9lkM3XmtCqb9g7h81758orY8eZvqFlafJm907CSGpG0ffMGtNfDcgZTH8/yxmBA=="/>
+            <description><![CDATA[
+                <ul>     <li>新增：Zen Brower浏览器支持</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Wed, 08 Oct 2025 21:27:11 +0800</pubDate>
             <sparkle:version>102</sparkle:version>
             <sparkle:shortVersionString>1.14.3</sparkle:shortVersionString>
