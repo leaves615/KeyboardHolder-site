@@ -8,7 +8,7 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.14.5/KeyboardHolder-1.14.5.zip" length="4901869" type="application/octet-stream" sparkle:edSignature="qHyDKrnHQU0lC6K163QeEqaZ+LgqthXhPLWhWwK+/He7rWlxcUxAtJf8ki+mefOX+lQFdTd/1awmjZMSo+SWBw=="/>
             <description><![CDATA[
-                <ul>     <li>新增：Zen Brower浏览器支持</li> </ul> 
+                <ul>     <li>修复：Chrome 地址栏激活切换问题。</li> </ul> 
             ]]>
             </description>
         </item>
