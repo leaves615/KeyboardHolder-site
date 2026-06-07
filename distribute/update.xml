@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Sun, 07 Jun 2026 15:28:18 +0800</pubDate>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>1.14.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.14.10/KeyboardHolder-1.14.10.zip" length="4672011" type="application/octet-stream" sparkle:edSignature="JSKAVGqZ/UxHpwx/CLOPC1WHd1NW1bdRCaGIBTUmdoP7H3WAsZONUXPmYs07JCIUm7IKXowvD1SoACuhHei9Dw=="/>
+            <description><![CDATA[
+                <ul>     <li>优化：提升性能</li>     <li>修复：hepler登录启动器报错问题</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Sat, 09 May 2026 20:57:58 +0800</pubDate>
             <sparkle:version>107</sparkle:version>
             <sparkle:shortVersionString>1.14.9</sparkle:shortVersionString>
