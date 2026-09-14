@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Mon, 14 Sep 2026 22:51:38 +0800</pubDate>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>1.14.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.14.13/KeyboardHolder-1.14.13.zip" length="4334606" type="application/octet-stream" sparkle:edSignature="ghC4g0cuzylsbXtn+ZgAp3YO1/FdT9WsYk7uvsCSx1ECLIVdp64smrgVQbND+IYYdMhrGKkV/oKEPzYLeNTLCA=="/>
+            <description><![CDATA[
+                <ul>     <li>修复：个别情况下系统输入法可能失灵的问题。</li>     <li>修复：输入法提示偶尔不显示或卡顿的问题。</li>     <li>修复：某些输入法图标变形、显示不完整的问题。</li>     <li>优化：提升输入法切换的稳定性与兼容性。</li>     <li>适配：更好的支持 macOS 26。</li> </ul>
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Thu, 20 Aug 2026 09:39:12 +0800</pubDate>
             <sparkle:version>109</sparkle:version>
             <sparkle:shortVersionString>1.14.12</sparkle:shortVersionString>
