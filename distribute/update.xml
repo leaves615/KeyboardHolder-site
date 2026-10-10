@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <pubDate>Sat, 10 Oct 2026 17:47:46 +0800</pubDate>
+            <sparkle:version>112</sparkle:version>
+            <sparkle:shortVersionString>1.14.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/v1.14.15/KeyboardHolder-1.14.15.zip" length="4338205" type="application/octet-stream" sparkle:edSignature="PqaODLZcHXjIQHkni7gcXXKgDlXwr0U1q1C3BHNY+zMrfhbTHRUe4hdYtC/3ZzXAwqMvixZCnfH15DPS2gi0Bg=="/>
+            <description><![CDATA[
+                <ul>     <li>新增：VNC 远程桌面这类特殊应用，切换过去时输入法也能跟着自动切换了。</li>     <li>修复：电脑休眠唤醒后，浏览器网址对应的输入法规则偶尔失效的问题。</li>     <li>修复：偶尔把普通窗口认成悬浮窗口，导致切错输入法的问题。</li>     <li>修复：多个悬浮窗口连续弹出时，关闭后回不到原来输入法的问题。</li>     <li>优化：电脑唤醒等场景下，输入法切换更稳定。</li> </ul> 
+            ]]>
+            </description>
+        </item>
+        <item>
             <pubDate>Sun, 27 Sep 2026 00:18:41 +0800</pubDate>
             <sparkle:version>111</sparkle:version>
             <sparkle:shortVersionString>1.14.14</sparkle:shortVersionString>
